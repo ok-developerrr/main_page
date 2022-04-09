@@ -3,12 +3,14 @@
 
 ### Мои проекты:
 
-[Кликер на Scratch](ok-developerrr.github.io/clicker)
+Кликер на Scratch:
+ok-developerrr.github.io/clicker
 
-[osu! На TurboWarp](ok-developerrr.github.io/osu-sc)
+osu! На TurboWarp:
+ok-developerrr.github.io/osu-sc
 
 
-## Как со мной связатся?
+### Как со мной связатся?
 
 Я есть в соц.сетях/мессенджерах:
 
